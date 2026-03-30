@@ -10,7 +10,12 @@ const miffLibrary = {
   // BOOK 2: Business Law
   "business-law": [
     { title: "Chapter 1: Intro to Law", link: "#" }
-  ]
+  ],
+
+  "coporate-finance": [
+    { title: "Chapter 1: Intro to Law", link: "#" },
+    { title: "Chapter 2: ###", link: "#"
+  ],
   
   // You can add up to 100 books here safely!
 };
